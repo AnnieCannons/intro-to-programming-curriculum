@@ -4,6 +4,7 @@
 2. add a class attribute with a value of "nav-logo" to the image tag
 3. create an unordered list with three list items.
 4. Make your list items clickable! You can have them link to any page you want.
+5.
 
 # Headers section Part One
 
