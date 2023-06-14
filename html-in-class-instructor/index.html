@@ -1,1 +1,249 @@
-<!-- hekko -->
+<!-- 
+  NAVBAR (unordered list, image)
+  1. add the logo (using an image tag) to the navbar
+  2. add a class attribute with a value of "nav-logo" to the image tag
+  3. create an unordered list with three list items.
+  4. Make your list items clickable! You can have them link to any page you want.
+-->
+
+<!-- HERO SECTION (h1, p, button, form)
+  1. add a class attribute with a value of "hero-section" to the section tag
+  2. Create a div with a class of "hero-wrapper"
+  3. Create a div with a class of "text-wrapper", that is a CHILD of the "hero-wrapper" div
+  4. Inside of the text-wrapper div, add an h1 tag with a class of "hero-header". Add the text from the design.
+  5. Add a p tag that is a SIBLING to the h1 with the text from the design.
+  6. Add a button tag that is a sibling to the p tag abd the h1 with the text from the design.
+  7. Link the button to AnnieCannons.com
+  8. Create a div with a class of "form-wrapper" that is a CHILD of the "hero-wrapper" div and a sibling of the "text-wrapper" div
+  9. Add an h1 tag with the text from the design that is a child of the "form-wrapper" div
+  10. Create your from. Follow the designs. 
+    a) each input tag should have the following attributes: type, id, name, required, placeholder
+    b) the select tag should have the following attributes: id, name, required
+      i. the first option tag should have the following attributes: value, disabled, selected
+      ii. the other option tags should have the following attributes: value
+    c) the submit input tag should have the following attributes: type, value
+    
+-->
+<!-- ABOUT SECTION -->
+<!-- GALLERY SECTION -->
+<!-- AWARDS SECTION -->
+<!-- STEPS SECTION -->
+<!-- CERTIFICATION SECTION -->
+<!-- FOOTER -->
+
+<!-- add instructions with numbered tasks -->
+<!-- 5. add 6 images
+     6. look at the images, they are the incorrect size. add a class attribute to the gallery section with a value of "gallery" (for example)  
+
+    -->
+<!-- Add attribute to open link in a new tab -->
+<!-- https://www.w3schools.com/tags/ref_byfunc.asp Use this to add tags we have not gone over and make two sections of your own -->
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Landing Page</title>
+  </head>
+  <link rel="stylesheet" href="./styles/styles.css" />
+  <body>
+    <nav>
+      <img src="./Images/ac-logo.jpg" class="nav-logo" />
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <section class="hero-section">
+      <div class="hero-wrapper">
+        <div class="text-wrapper">
+          <h1 class="hero-header">
+            Writing inclusive software for the next generation
+          </h1>
+          <p>
+            Welcome to the world of HTML! Remember to have fun while learning,
+            embrace the bugs, and make sure to break things.
+          </p>
+          <button href="https://www.anniecannons.com">Learn More</button>
+        </div>
+        <!-- Add class attribute with a value of "form-wrapper" -->
+        <div class="form-wrapper">
+          <h1>Request a Quote</h1>
+          <form action="/submit" method="post">
+            <!-- <label for="firstName">First Name:</label> -->
+            <input
+              type="text"
+              id="firstName"
+              name="firstName"
+              required
+              placeholder="First Name"
+            /><br /><br />
+
+            <input
+              type="text"
+              id="lastName"
+              name="lastName"
+              required
+              placeholder="Last Name"
+            /><br /><br />
+
+            <input
+              type="email"
+              id="email"
+              name="email"
+              required
+              placeholder="Email"
+            /><br /><br />
+
+            <select id="budget" name="budget" required>
+              <option value="" disabled selected>Select Budget Range</option>
+              <option value="less-than-10000">Less than $10,000</option>
+              <option value="10001-20000">$10,001 - $20,000</option>
+              <option value="more-than-20000">More than $20,000</option></select
+            ><br /><br />
+
+            <input type="submit" value="Submit" />
+          </form>
+        </div>
+      </div>
+    </section>
+    <section class="about-section">
+      <!-- <h1 class="section-header">About Us</h1> -->
+      <div class="about-wrapper">
+        <div class="about-img-wrapper">
+          <img src="./Images/software-graphic.png" alt="hero image" />
+        </div>
+        <div class="about-text-wrapper">
+          <h1>About Our Products</h1>
+          <!-- add bulleted list, and numbered with top 5 reasons to hire us, etc -->
+          <p>
+            We make the best software around. We are also really fun to work
+            with!
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- Go to pexels.com and download 12 photos -->
+    <section class="gallery-section">
+      <div class="gallery-text-wrapper">
+        <h1 class="section-header">Gallery</h1>
+        <p>
+          These are the most beautiful photos in the world, all made possible by
+          our amazing engineers.
+        </p>
+      </div>
+      <div class="images-wrapper">
+        <a href="https://www.pexels.com/"
+          ><img src="./Images/gallery1.jpg" alt="Oceans and mountains"
+        /></a>
+        <a href="https://www.pexels.com/"
+          ><img src="./Images/gallery2.jpg" alt="Oceans and mountains"
+        /></a>
+        <a href="https://www.pexels.com/"
+          ><img src="./Images/gallery8.jpg" alt="Oceans and mountains"
+        /></a>
+        <a href="https://www.pexels.com/"
+          ><img src="./Images/gallery9.jpg" alt="Oceans and mountains"
+        /></a>
+
+        <a href="https://www.pexels.com/"
+          ><img src="./Images/gallery4.jpg" alt="Oceans and mountains"
+        /></a>
+
+        <a href="https://www.pexels.com/"
+          ><img src="./Images/gallery6.jpg" alt="Oceans and mountains"
+        /></a>
+        <a href="https://www.pexels.com/"
+          ><img src="./Images/gallery7.jpg" alt="Oceans and mountains"
+        /></a>
+        <a href="https://www.pexels.com/"
+          ><img src="./Images/gallery10.jpg" alt="Oceans and mountains"
+        /></a>
+        <a href="https://www.pexels.com/"
+          ><img src="./Images/gallery11.jpg" alt="Oceans and mountains"
+        /></a>
+      </div>
+    </section>
+    <section class="awards-section">
+      <h1 class="section-header">Awards</h1>
+      <p class="awards-section-text">
+        We have won many awards for our software. Here are just a few of them.
+      </p>
+      <div class="flex-wrapper">
+        <div class="right-content-box content-box">
+          <div class="list-wrapper">
+            <p class="list-header">
+              Click <a href="https://www.google.com">here</a> to ask ChatGPT
+              about each of these rewards!
+            </p>
+            <ul>
+              <li>Best CSS</li>
+              <li>Most thorough documentation</li>
+              <li>Number One Creative Solutions Center</li>
+              <li>Dedicated to taking our time</li>
+            </ul>
+          </div>
+        </div>
+        <div class="left-content-box content-box">
+          <img src="./Images/award.png" class="award-img" />
+        </div>
+      </div>
+    </section>
+    <section class="parent-child-section section steps-section">
+      <hi class="section-header">Our Steps</hi>
+      <div class="steps-wrapper">
+        <div class="steps-card">
+          <h1>1</h1>
+          <p>
+            Give us a call! We will go over everything together and ensure you
+            want to hire us.
+          </p>
+        </div>
+        <div class="steps-card">
+          <h1>2</h1>
+          <p>
+            Meet with our product team to determine your MVP, a product that
+            will thrill your users.
+          </p>
+        </div>
+        <div class="steps-card">
+          <h1>3</h1>
+          <p>
+            Our in-house desigers will create something that is both beautiful,
+            funcitonal, and user-friendly.
+          </p>
+        </div>
+        <div class="steps-card">
+          <h1>4</h1>
+          <p>
+            Our team will build the app of your dreams. We will take our time
+            and pay close attention to every detail.
+          </p>
+        </div>
+      </div>
+    </section>
+    <section class="section certification-section">
+      <div class="certification-process-wrapper">
+        <h1 class="section-header">Our Certification Process</h1>
+        <ol>
+          <li>Internal testing</li>
+          <li>Beta testing with a small group</li>
+          <li>Make changes based on feedback</li>
+          <li>Present the software to the world</li>
+        </ol>
+      </div>
+    </section>
+    <section class="section buttons-section">
+      <div class="buttons-wrapper">
+        <button class="button">Contact Us</button>
+        <button class="button">Learn More</button>
+        <button class="button">Request a Quote</button>
+        <button class="button">Donate</button>
+      </div>
+    </section>
+  </body>
+</html>
+
+<!-- <img src="./Images/gallery1.jpg" alt="cartoon award. Gold circle with a star in the middle. Two red ribbons hanging down from the gold circle."/> -->
