@@ -1,6 +1,6 @@
 # Git Setup Guide
 
-This setup guide covers several aspects of getting started with Git and/or continuing with Git on a Mac computer.
+This setup guide covers several aspects of getting started with Git and/or continuing with Git on a Mac computer. After you're done, you'll have some of the most popular and powerful tools in a developer's tool belt.
 
 ## Git Installation
 
@@ -45,17 +45,36 @@ However your instructor asks for it, get us your GitHub username. This is **very
 
 ### Accept Your GitHub Collaboration Invitation
 
-Your instructor will add you to a private repository. This is so that you can tell if you authenticated to GitHub correctly. If you did, then you'll be able to clone the repository successfully.
+Your instructor will add you by GitHub username to a private repository. This is so that you can tell if you authenticated to GitHub correctly. If you did, then you'll be able to clone the repository successfully.
 
 **Once they've added you**, you should get an email inviting you to join a repository as a collaborator, and you can follow these steps to get added to the repository:
 
 1. **Find the email**. If you have trouble finding the email, it should have a "from" field that's the private repo's owner's username (ask your instructor if you're not sure) and a "subject" field  with the private repo's owner's username and "invited you to".
-6. **Click the link** in the email that says **"View invitation"**.
-7. That will take you to a page where you can **click "Accept invitation"**.
+2. **Click the link** in the email that says **"View invitation"**.
+3. That will take you to a page where you can **click "Accept invitation"**.
 
 ### Install GitHub's Git Credential Manager
 
 Now that you're on the repo, we can get you authorized to GitHub using Git Credential Manager.
 
-8. Now they can go back to their terminal and install Git Credential Manager. They can enter the commands `brew tap microsoft/git` followed by `brew install --cask git-credential-manager-core`. It may ask them for their password, which can throw them off, since terminals don't show password input.
-9. Then they can clone down the private repo with `git clone`, which will open a window asking if they want to sign in. Once they say they do, it will then open their default browser, and by signing in (or being signed in already) they will automatically be authorized to GitHub.
+1. Let's go back to the terminal and install Git Credential Manager. The first step is to enter the command `brew tap microsoft/git` in the terminal, then hit return.
+2. Then enter the command `brew install --cask git-credential-manager-core` and press return. It _may_ ask you for their password, which would be your **password to your computer**. It may still not show your input as you type your password.
+2. Now it's time to **clone down the private repo** and make sure you're authorized. Enter the command `git clone [repo url]`, with the `[repo url]`portion replaced with the url your instructor will give you.
+3. It will now ask you if you want to sign in with your browser, which you do.
+4. It should switch you to your default browser and ask you to **sign into GitHub**, if you're not signed in already.
+5. Then it will ask if you want to authorize to GitHub. You do!
+6. Once you've authorized to GitHub, your browser will tell you you're done, and you can **switch back to your terminal**. It should have output that includes a line starting with "Cloning into", some lines starting with "remote" and some more lines starting with "Receiving".
+
+**If you got the output from the last step**, then _you're all set_ to work in the cloud and collaborate with anyone in the world through GitHub.
+
+**If you _didn't_ get that output**, then ask your instructor. I'm sure they'll help.
+
+## Final Thoughts
+
+ Believe it or not, we've worked to cut a _lot_ of steps out of installing all these standard code collaboration tools (wait... this could have been _more_ difficult??). Setting up Homebrew, Git, and GitHub is famously an _awful lot_. And as new developers, this is especially challenging. But it's a necessary step since so much of what we do now lives under version control and in the cloud.
+ 
+ If you got stuck, we'll _always_ help you get unstuck, whether it's in code or with tech support needs.
+ 
+ If you finished all of the above, then congratulations, you now have all the tools you need to work with each other's code, turn in _your_ code to the instructors, start new side projects and store them in the cloud, contribute to open source projects, and so much more.
+ 
+ Well done!
