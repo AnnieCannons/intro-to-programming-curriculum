@@ -2,9 +2,6 @@
 
 This setup guide covers several aspects of getting started with Git and/or continuing with Git on a Mac computer.
 
-It is highly recommended that you install Git **after class**. It can take a while, especially with the Homebrew portion, and especially on a slow connection. Devote a half hour of uninterrupted time to it, though some of this can be spent away from your computer while Homebrew downloads.
-
-
 ## Git Installation
 
 ### Step 1: Install Homebrew
@@ -27,25 +24,38 @@ Now that we have Homebrew, this is fairly easy!
 2. Run `brew install git`. If it gives you output that includes `command not found: brew`, then you should follow the last couple of steps from the Homebrew installation settings.
 3. Once it's done installing (and it shouldn't take long), **open a new terminal window** (Command-n will do so), type in `git --version`, hit return, and make sure that the output is a number greater than you had before. If so, you're done!
 
+### Step 3: Configuring Git
+
+We'll follow the steps in [this repository](https://github.com/abbreviatedman/class-gitconfig). This will give us a basic setup for Git, cutting down on the time we need to explain configuration or make you configure it yourself, while still providing the understanding of how to configure it in the future.
+
 ## Github Authentication
 
 Now that you have Git, you can manage your version control locally on your computer. However, to upload your projects to GitHub or collaborate with anyone on there, you'll need to authorize your computer to do so. (Security is taken _very_ seriously when it comes to the server your app's code lives on!)
 
-So in the next step, we'll add a Personal Access Token (or PAT) for GitHub, first on their servers, then on our machine.
+### Get A GitHub Account
 
-We're generally going to follow the steps outlined in the **Creating a personal access token (classic)** on GitHub. **Make sure not to follow the "fine-grained personal access token" steps**. They're fine steps, but they're different and slightly more complicated than what's described below. 
+Sign up for a new account on [GitHub](https://www.github.com) **with your professional personal email** (not your AnnieCannons one). It's a fairly easy signup process, though you _will_ have to:
 
-### Personal Access Token Creation On GitHub
+1. check your email for a confirmation code, and then 
+2. enter it back in on GitHub
 
-1. In the browser, log into your Github account.
-2. Follow the steps outlined in the **Creating a personal access token (classic)** on GitHub,  to [create your Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) **with the following specific directions**:
-    a. Under "Expiration", select “No expiration”
-    b. For "Select scopes", please check the following boxes. Some will check boxes under themselves—this is what we want.
-        1. "repo" 
-        2. every box that starts with the word "admin" 
-        3. "user"
-        4. "delete_repo"
-3. Follow all other steps outlined in GitHub's directions, finishing with pressing the "Generate token" button, but you do _not_ need to do the last step to work with an organization that uses SAML single sign-on. **Once you have clicked "Generate token", do not close the tab.**
-4. It's _very_ important that you now **copy the code** to your clipboard **without closing the tab or window**, and paste it into a text file—a note in the Pages app is a good place for it. The code should start with `ghp` and be in a green rectangle. You can copy it to your clipboard automatically by pressing the blue squares after the code, one of the universal symbols for a clipboard. Put that code somewhere you can find it—a Pages note is a good place for this—although if you lose it, you can follow the steps in this section from the beginning.
+### Send Us Your GitHub Username
 
-### Logging Into GitHub With Your Personal Access Token
+However your instructor asks for it, get us your GitHub username. This is **very important** for the next step!
+
+### Accept Your GitHub Collaboration Invitation
+
+Your instructor will add you to a private repository. This is so that you can tell if you authenticated to GitHub correctly. If you did, then you'll be able to clone the repository successfully.
+
+**Once they've added you**, you should get an email inviting you to join a repository as a collaborator, and you can follow these steps to get added to the repository:
+
+1. **Find the email**. If you have trouble finding the email, it should have a "from" field that's the private repo's owner's username (ask your instructor if you're not sure) and a "subject" field  with the private repo's owner's username and "invited you to".
+6. **Click the link** in the email that says **"View invitation"**.
+7. That will take you to a page where you can **click "Accept invitation"**.
+
+### Install GitHub's Git Credential Manager
+
+Now that you're on the repo, we can get you authorized to GitHub using Git Credential Manager.
+
+8. Now they can go back to their terminal and install Git Credential Manager. They can enter the commands `brew tap microsoft/git` followed by `brew install --cask git-credential-manager-core`. It may ask them for their password, which can throw them off, since terminals don't show password input.
+9. Then they can clone down the private repo with `git clone`, which will open a window asking if they want to sign in. Once they say they do, it will then open their default browser, and by signing in (or being signed in already) they will automatically be authorized to GitHub.
