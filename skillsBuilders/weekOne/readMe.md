@@ -1,27 +1,33 @@
-# Goals of this week's homework
+# Goals of the week
 
+- **By the end of this week, you should be able to**
+  - Use Slack for messaging
+  - Access Canvas and turn in assignments
+  - Open your terminal
+    - Run a few basic commands (it's ok if you use Google to refresh)
+  - Clone the class repo to your local machine
 - This week's exercises are built to make you feel more comfortable with revisiting information between classes.
 - There are google search reminders throughout. As the course continues, you will be depending on Google more and more, so this is a great time to start getting comfortable with it!
 
-# June 20, 2023
+# Tuesday, June 20, 2023
 
-- Find an article or video about the terminal and either write or be ready to share 1-3 things you learned
-- HTML CodeCademy (if not already completed)
-- **In order to receive credit:**
-  - If you are writing your learnings, Slack them to your instructor
-  - If you are sharing your learnings, the instructor will check you off in class
+- Find the slide deck in Canvas called Intro to Programming Overview
+- Review the slide deck, paying close attention to the learning objectives and deliverables
+- Take a screenshot of the deliverables slide
+- **In order to receive credit, post your screenshot in canvas**
 
-# June 21, 2023
+# Wednesday, June 21, 2023
 
-- Spend 10 minutes practicing the terminal. Create folders and files. Change directories using complex relative paths.
-- HTML CodeCademy (if not already completed)
-- **In order to receive credit, you must Slack your instructor that you finished your 30 minutes**
-
-# June 22, 2023
-
-- Spend 30 minutes looking at the repo you cloned to your machine. Make note of the directory structure, the different file extensions, and the code. It's ok if it doesn't make sense yet, we are just taking time to get used to things.
+- Spend at least 15 minutes practicing the terminal. Create folders and files. Change directories using complex relative paths.
+- Click here for a refresh on relative paths https://www.codecademy.com/resources/docs/html/file-paths
 - HTML CodeCademy (if not already completed)
 - **In order to receive credit, you must Slack your instructor that you finished your 30 minutes**
+
+# Thursday, June 22, 2023
+
+- Open your terminal and run the **say** command.
+- Read this article for a refresher, or if you want to learn how to make your computer to use a different voice! https://www.techradar.com/how-to/computing/apple/terminal-101-making-your-mac-talk-with-say-1305649
+- **In order to receive credit, you must Slack your instructor with the sentence you had your terminal say.**
 
 # June 23, 2023
 
@@ -38,7 +44,7 @@
      3. **Add the file to Canvas**
 
 - **More (this is not required):**
-  - **Complete eveything from above**, plus
+  - **Complete everything from above**, plus
     1. In your terminal, create a folder called **PracticeRepo**
     2. Create a file called **index.html**
     3. Create a folder called **styles**
