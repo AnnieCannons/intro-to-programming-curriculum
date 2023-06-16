@@ -1,3 +1,5 @@
+# PUT THESE IN CHRONILIGICAL ORDER TO MATCH THE SLIDES
+
 # NAVBAR (unordered list, image)
 
 1. add the logo (using an image tag) to the navbar
