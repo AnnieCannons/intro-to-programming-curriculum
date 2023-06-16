@@ -1,3 +1,5 @@
+# Goals of this week's homework
+
 - This week's exercises are built to make you feel more comfortable with revisiting information between classes.
 - There are google search reminders throughout. As the course continues, you will be depending on Google more and more, so this is a great time to start getting comfortable with it!
 
@@ -11,19 +13,19 @@
 
 # June 21, 2023
 
-- Spend 30 minutes practicing the terminal. Create folders and files. Change directories using complex relative paths.
+- Spend 10 minutes practicing the terminal. Create folders and files. Change directories using complex relative paths.
 - HTML CodeCademy (if not already completed)
-- **In order to recieve credit, you must Slack your instructor that you finished your 30 minutes**
+- **In order to receive credit, you must Slack your instructor that you finished your 30 minutes**
 
 # June 22, 2023
 
 - Spend 30 minutes looking at the repo you cloned to your machine. Make note of the directory structure, the different file extensions, and the code. It's ok if it doesn't make sense yet, we are just taking time to get used to things.
 - HTML CodeCademy (if not already completed)
-- **In order to recieve credit, you must Slack your instructor that you finished your 30 minutes**
+- **In order to receive credit, you must Slack your instructor that you finished your 30 minutes**
 
 # June 23, 2023
 
-- **Minimum:**
+- **To Receive Credit:**
 
   1. Open your computer, start your terminal and run a 'say hello' command.
   2. Using your terminal, open your HTML repo in Visual Studio Code
@@ -46,7 +48,7 @@
     7. Launch VS Code (see above for a resource if you need support)
     8. Open your index.html file
     9. Write **doc** then press tab
-    10. It will look something like this: ![Alt text](image.png)
+    10. It will look something like this: ![Alt text](./assets/htmlExample.png)
     11. Add the following code between the opening and closing body tag: `<p>Hello, World!</p>`
     12. Drag your html file to your Chrome Browser
     13. **Turn in a screenshot of your code rendering in the browser!**
