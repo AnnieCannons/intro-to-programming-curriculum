@@ -6,6 +6,7 @@
 
 
 # Articles from slides
+ - [Command Line Cheat Sheet](https://github.com/0nn0/terminal-mac-cheatsheet)
 
 # In-class activities
 **Google Search Activity**
