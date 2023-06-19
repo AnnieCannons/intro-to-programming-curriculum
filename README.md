@@ -1,7 +1,3 @@
-# intro-to-programming-curriculum
+# Intro To Programming 06-2023
 
-A private repo that can be forked to create a cohort-specific repo.
-
-We will also use this to manage tasks within the curriculum.
-
-Currently being maintained by Catie (@cm-hart) and Colin (@abbreviatedman)
+The curriculum for Intro to Programming at Annie Cannons for the cohort joining in June of 2023.
