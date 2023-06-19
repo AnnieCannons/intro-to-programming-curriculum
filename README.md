@@ -1,6 +1,6 @@
 # Intro To Programming - Curriculum
 
-A private repo that can be forked to create a cohort-specific repo.
+A curriculum repo that can be forked to create a cohort-specific repo.
 
 We will also use this to manage tasks within the curriculum.
 
