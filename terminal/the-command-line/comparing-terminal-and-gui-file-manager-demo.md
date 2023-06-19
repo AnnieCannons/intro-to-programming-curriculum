@@ -34,4 +34,16 @@ This demo could also work to repeat it later with the students once they're read
 
 1. create an `index.html` file in the file manager and a `style.css` file with `touch`.
 2. Do an `ls` and compare with the file manager.
-3. Open with VS Code and install to show that you can see both 
+3. Open with VS Code and show that both files are empty. Leave the program open if you're doing the next part.
+
+### One More Demo Of The Terminal's Power
+
+1. Talk about how you can even edit files in the terminal.
+2. Open the `index.html` file with Chrome to show how that's done.
+3. Go back to the terminal and run `echo "h1 {color: green} p {color: blue} span {font-weight: 900}" > style.css`
+4. Open `style.css` in VS Code (or switch to it if you left it open) to show that it's been edited.
+5. Go back to the terminal and run `echo '<html><head><title>Terminal Demo</title><link href="style.css" rel="stylesheet" /></head><body><h1>Terminals Are Neat-o</h1><p>Yeah they <span>are</span>!</p></body></html>' > index.html`
+6. Now look at the HTML file in VS Code to see how it's changed.
+7. And reload the window in Chrome to see the HTML and CSS working together.
+
+
