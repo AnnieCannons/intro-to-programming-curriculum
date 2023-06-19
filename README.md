@@ -1,4 +1,4 @@
-# intro-to-programming-curriculum
+# Intro To Programming - Curriculum
 
 A private repo that can be forked to create a cohort-specific repo.
 
