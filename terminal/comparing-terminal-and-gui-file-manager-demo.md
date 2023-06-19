@@ -8,24 +8,24 @@ Open the file manager ("Finder" on macOS) and the terminal ("Terminal" on macOS)
 
 Ask your students to follow along _only_ in the file manager as you do this. You'll slow things down too much if they're using the terminal, _unless_ you combine this with learning terminal commands.
 
-This demo could also work to repeat it later with the students once they're ready to learn some terminal commands.
+This demo could also work to repeat it later with the students following along, once they're ready to learn some terminal commands.
 
 ## Show `ls` and `pwd`.
 
 1. Enter `ls` in the terminal and show that it has the same files and folders as shown in the file manager.
 2. Ask, "now what folder are we in?" The answer is "your home folder", but you can _also_ show that you can find it by command-clicking the title bar.
-3. Now show that `pwd` shows the same thing.
+3. Now show that `pwd` shows the same thing as the title-bar file manager path.
 
 ## Show `mkdir` and `touch`.
 
 ### `mkdir`
 
-1. Navigate to the Documents folder by double-clicking. `cd` into the directory in the terminal. Show `ls` and  `pwd` and that they still match the file manager's output.
-2. Create a folder with the file manager and a different one with `mkdir`.  `ls` and show the file manager. `cd` into one directory and run `pwd`, showing the equivalent in the Finder.
+1. Navigate to the Documents folder by double-clicking in the file manager. `cd` into the directory in the terminal. Show `ls` and  `pwd` and that they still match the file manager's output.
+2. Create a folder with the file manager and a different one with `mkdir`.  `ls` and show the file manager to show their equivalence. `cd` into one directory and run `pwd`, showing the equivalent in the Finder.
 
-### A Side Note On `..`And A Demo Of Terminal Speed.
+### `cd`
 
-1. `cd` up a level with `..` and discuss that `..`is a shortcut for "the current directory's parent".
+1. `cd` up a level with `..` and discuss that `..`is a shortcut for "the current directory's parent". Do the same in the file manager.
 2. `cd` up several levels, following along in the file manager.
 3. Then `cd` down several levels, following along in the file manager, ending up in the _other_ directory you made with `mkdir`.
 4. Finally, demonstrate the speed with which you can navigate by `cd`-ing to `/`, and then `cd`-ing back into the directory with one command including tab completion.
