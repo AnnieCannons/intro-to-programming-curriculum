@@ -21,13 +21,13 @@
 - Spend at least 15 minutes practicing the terminal. Create folders and files. Change directories using complex relative paths.
 - Click here for a refresh on relative paths https://www.codecademy.com/resources/docs/html/file-paths
 - HTML CodeCademy (if not already completed)
-- **In order to receive credit, you must Slack your instructor that you finished your 30 minutes**
+- **In order to receive credit, post a screenshot of your terminal in Canvas**
 
 # Thursday, June 22, 2023
 
 - Open your terminal and run the **say** command.
 - Read this article for a refresher, or if you want to learn how to make your computer to use a different voice! https://www.techradar.com/how-to/computing/apple/terminal-101-making-your-mac-talk-with-say-1305649
-- **In order to receive credit, you must Slack your instructor with the sentence you had your terminal say.**
+- **In order to receive credit, post a screenshot of your terminal with the 'say' command showing in Canvas.**
 
 # June 23, 2023
 
