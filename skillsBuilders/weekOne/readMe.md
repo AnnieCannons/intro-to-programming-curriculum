@@ -1,4 +1,6 @@
-# Goals of the week
+# Skill Builders For Week 1
+
+## Goals of the week
 
 - **By the end of this week, you should be able to**
   - Use Slack for messaging
