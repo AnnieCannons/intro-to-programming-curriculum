@@ -47,9 +47,9 @@ When we make changes that should go in our general curriculum, the situation is 
 4. Merge in the changes from the other branch with `git merge curriculum-changes`.
 5. This still hasn't impacted the `main` branch, but a `git push origin main` will get those changes into the part of GitHub our students are used to checking.
 
-**And now, the big difference**: get those changes back into the main curriculum repo.
+_And now, the big difference_: for generalized curriculum, an extra step to get those changes back into the main curriculum repo.
 
-1. Navigate to your cohort-specific repo on GitHub, and switch the view to that of the `curriculum-changes` repo.
+1. Navigate to your cohort-specific repo on GitHub and switch the view to that of the `curriculum-changes` branch.
 2. Open a PR from the `curriculum-changes` branch of the cohort-specific repo to the `main` branch of the curriculum repo.
 3. Ask another instructor to review your PR and merge it.
 4. Celebrate that you just helped shape our long-term curriculum!
@@ -62,7 +62,7 @@ It's not all that complicated, and you only need to do it once!
 
 Ish!
 
-#### Setting Up For A New Cohort (only need to do this once per cohort)
+#### Setting Up For A New Cohort (we only need to do this once per cohort)
 
 In order to set this up for a new cohort, you need to do the following:
 
@@ -72,15 +72,17 @@ In order to set this up for a new cohort, you need to do the following:
 
 And you've done it: you've found your curriculum repo and made your own cohort-specific repo.
 
-#### Setting Up For A New Instructor To Work Locally (need to do this once per instructor's computer)
+#### Setting Up For A New Instructor To Work Locally (we need to do this once per instructor's computer)
 
 In order to work with the curriculum on your computer, here's what you'll need to do.
 
-1. Clone your **cohort-specific** repo with `git clone` and navigate into the directory with `cd`.
+1. Clone your _cohort-specific_ repo with `git clone` and navigate into the directory with `cd`.
 2. Although the remote has `curriculum-changes`, your local version only has `main`. Run `git switch -t origin/curriculum-changes` to add it as a local branch and set it to track the remote.
-3. Run step 2 with the branch name changed to `cohort-specific-changes`.
-4. Lastly, add the original curriculum repo as a remote so you can pull curriculum changes. Run `git remote add upstream [the url of the curriculum repo]` except that of course the part of the command where the contents of the square brackets (and the square brackets themselves) are  should be replaced by the (you guessed it) the url of the curriculum repo.
+3. Run step 2 with the branch name changed to `cohort-specific-changes` to get that local branch.
+4. Lastly, add the original curriculum repo as a remote so you can pull curriculum changes that come in. Run `git remote add upstream [the url of the curriculum repo]` except that of course the part of the command where the square brackets are, and their contents as well, should be replaced by (you guessed it) the url of the curriculum repo.
 
 ## Conclusion
 
-This will take a little work and a fair bit of discipline to make sure the system works as intended, but the advantages are extraordinary. Besides the well-maintained curriculum so vital to success as a school, our instructors will also get plenty of Git practice, as this author has as well. Those instructors with less Git experience will get to flex their branch-and-PR muscles, some perhaps for the first time, while those instructors with more practical developer experience will get to mentor those with less, helping (as we know) mentor and mentee alike.
+This will all take a little more work, a bit of getting used to, and a fair bit of discipline to make sure the system works as intended, but the advantages are substantial. Besides the advantage of a well-maintained curriculum—so vital to success as a school—we'll also allow our instructors to get plenty of Git practice, as this author has as well. Those instructors with less Git experience will get to flex their branch-and-PR muscles, some perhaps for the first time, while those instructors with more practical developer experience will get to mentor those with less, helping (as we know) mentor and mentee alike.
+
+And that's how you _do_.
