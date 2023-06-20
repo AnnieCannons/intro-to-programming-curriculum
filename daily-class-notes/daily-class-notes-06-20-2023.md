@@ -11,7 +11,7 @@
 
 ##### Slides Covered
 
-[Intro To Programming Overview](https://www.canva.com/design/DAFlnjhmwxQ/uqq5n0wnMMWEXThPvYAAXA)
+[Intro To Programming Overview](https://www.canva.com/design/DAFlnjhmwxQ/uqq5n0wnMMWEXThPvYAAXA) up through slide 31.
 
 ##### In-Class Assignments
 
