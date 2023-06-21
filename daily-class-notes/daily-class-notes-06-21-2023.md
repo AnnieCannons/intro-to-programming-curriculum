@@ -4,6 +4,9 @@
 
 ##### Action Items
 
+###### Install VS Code
+
+###### Install Oh-My-Zsh
 
 ##### Slides Covered
 
