@@ -24,7 +24,8 @@
 
 ##### Slides Covered
 
-[The Terminal](https://www.canva.com/design/DAFmICM4CfY/bIkVOOKrMgT78NOs0R5bAQ/edit?utm_content=DAFmICM4CfY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Intro To Programming Overview](https://www.canva.com/design/DAFlnjhmwxQ/uqq5n0wnMMWEXThPvYAAXA/edit) from slide 32 to the end (just a couple of slides).
+- [The Terminal](https://www.canva.com/design/DAFmICM4CfY/bIkVOOKrMgT78NOs0R5bAQ/edit?utm_content=DAFmICM4CfY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ##### Assignments
 
