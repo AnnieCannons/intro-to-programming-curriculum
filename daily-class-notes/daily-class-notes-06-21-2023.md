@@ -24,8 +24,9 @@
 
 ##### Slides Covered
 
+[The Terminal](https://www.canva.com/design/DAFmICM4CfY/bIkVOOKrMgT78NOs0R5bAQ/edit?utm_content=DAFmICM4CfY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-##### In-Class Assignments
+##### Assignments
 
-- We started the Terminal Exercise, but we are taking additional time with it tomorrow morning.
+- We started the in-class [Terminal Exercise](https://github.com/AnnieCannons/intro-to-programming-06-2023/tree/main/terminal/terminal-file-management-exercise), but we are taking additional time with it tomorrow morning.
 - There will be **no** Skill Builder today.
