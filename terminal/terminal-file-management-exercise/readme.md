@@ -21,53 +21,54 @@ You will also gain some degree of familiarity with the command prompt—the plac
 
 Make sure you're being patient with yourself!
 
+## How To Get Unstuck When Attempting These Tasks
+
+You **may or may not** remember how to create a directory. If you're stuck, the answer is _not in your heart_. Ask a **friendly internet search engine** and read **several** posts to make sure you're getting **good and usable information**, or ask **another student**. If you're truly stuck, ask your **#help** channel in Slack. If you have to look it up often, that's okay! If you look it up often enough, you'll memorize the fact that the command is `mkdir`. If you don't memorize it, you probably aren't using it enough to need to!
+
+**None of this asking other people is cheating.** You're practicing how to get yourself unstuck, how to research, and how to use the resources you have around you.
+
 ## Tasks
 
-1. Create a new directory called `my-files`. Your file system should now have a new directory called `my-files`
-2. Navigate to the `my-files` directory. You should now be inside the `my-files` directory.
-3. Create a new file called `file-1.txt`. Your file system should now have a new file called `file-1.txt` inside the `my-files` directory.
-4. Create a new file called `file-2.txt`. Your file system should now have a new file called `file-2.txt` inside the `my-files` directory.
-5. Create a new directory called `my-images`. Your file system should now have a new directory called `my-images` inside the `my-files` directory.
-6. Navigate to the `my-images` directory. You should now be inside the `my-images` directory.
-7. Create a new file called `image-1.png`. Your file system should now have a new file called `image-1.png` inside the `my-images` directory.
-8. Navigate back to the parent directory. You should now be back inside the `my-files` directory.
-9. Move the `my-images` directory into the `my-files` directory. Your file system should now have a new directory called `my-images` inside the `my-files` directory and no longer exist as a separate entity.
-10. Rename the `my-files` directory to `our-files`. Your file system should now have a new directory called `our-files`.
-11. Create a new file called `file-3.txt`. Your file system should now have a new file called `file-3.txt` inside the `our-files` directory.
-12. Create a new file called `file-4.txt`. Your file system should now have a new file called `file-4.txt` inside the `our-files` directory.
-13. Navigate to the `our-files` directory. You should now be inside the `our-files` directory.
-14. Create a new directory called `my-scripts`. Your file system should now have a new directory called `my-scripts` inside the `our-files` directory.
-15. Navigate to the `my-scripts` directory. You should now be inside the `my-scripts` directory.
-16. Run the following command: 
-
-```
-echo 'echo "Hello World!"' > script-1.sh
-```
-
-Your file system should now have a new script file called script-1.sh with "echo "Hello World!"" written in it, located in your my-scripts folder.
-
-17. Navigate back to the parent directory. You should now be back inside the our-files folder.
-18. Move the our-files folder into your home folder. Your home folder should now contain a folder named our-files with all of its contents.
-19. Navigate to your home folder. You should now be in your home folder.
-20. Run the following command:
+1. Open a terminal window. Use `pwd` to get your current working directory. It should be your home directory—`pwd` should give you a an output  of `/Users/` followed by your username on your computer. **Keep in mind that the home directory can also be shortened to "~"**. When you see that, or `/Users/` followed by your username, remember that that's "home".
+2. Use a terminal command to create a new directory called `my-files`.  Your current working directory won't change—run `pwd` to see that you're estill in your home directory. You can confirm that it worked by running `ls` to see the directory among the list of files and directories within your home directory.
+3. Use a terminal command to navigate into the `my-files` directory. If you run `pwd`, you should now see a working directory file path that ends with `/my-files`. Use `ls` to see that the directory is empty—you should get no output.
+4. Use a terminal command to create a new file called `file-1.txt`. If you run `ls` now, you should see `file-1.txt` as the only output.
+5. Use a terminal command to create a new file called `file-2.txt`. If you run `ls` now, you should see `file-1.txt` and `file-2.txt` outputted.
+6. Use a terminal command to create a new directory called `my-images`. Running `pwd` will still give you the same directory, since you haven't changed directories. But if you run `ls`, you should now see `file-1.txt`, `file-2.txt`, and `my-images` outputted.
+7. Use a terminal command to create a new directory called `my-gifs`. Running `pwd` will still give you the same directory, since you haven't changed directories. But if you run `ls`, you should now see `file-1.txt`, `file-2.txt`, `my-images`, and `my-gifs` outputted.
+8. Use a terminal command to navigate into the `my-images` directory. You should now be inside the `my-images` directory—confirm with `pwd`.
+9. Create a new file called `image-1.png`. Your file system should now have a new file called `image-1.png` inside the `my-images` directory—confirm with `ls`.
+10. Navigate back to the parent directory—you can do this by navigating back to your home directory and then into `my-files`, but there's a shortcut to navigating to your parent directory. Either way, you should now be back inside the `my-files` directory—confirm this with `pwd`.
+11. Use a terminal command to move the `my-gifs` directory into the `my-images` directory. Your file system should now have a directory called `my-gifs` _inside_ the `my-images` directory. You can confirm this by running `ls my-images`—this will keep you in your current directory while checking the contents of the `my-images` directory.
+12. Use a terminal command to navigate into the `my-gifs` directory, keeping in mind that it's _within_ the `my-images` directory.
+13. Use a terminal command to create a new file called `homer.gif`. Run `ls` to confirm it exists.
+14. Use a terminal command to navigate back to your home directory and run an `ls` to confirm that the `my-files` directory is there. Use a terminal command to rename the `my-files` directory to `our-files`. You may have to do some research as to how to rename a file... but it actually uses a command you've already used. Run an `ls` command to confirm that your directory has an `our-files` directory and no `my-files` directory.
+15. Use terminal commands to navigate into `our-files` and create new files called `file-3.txt` and  `file-4.txt`. Run `ls` to see if they were created and to see what else is in your current directory. Did you expect to see those results? Why or why not?
+16. Use a terminal command to create a new directory called `my-scripts`. Run an `ls` to confirm it's been added.
+17. Use a terminal command to navigate into the `my-scripts` directory. Run `pwd` to confirm.
+18. Run the following command in your terminal. Watch the quotes and apostrophes!
 
 ```
 echo 'echo "This is my first shell script!"' > script-1.sh
 ```
 
-Your home folder should now contain a script named script-1.sh with "echo "This is my first shell script!"" written in it.
+`echo` can insert text into a file, creating it if necessary. Run an `ls` and you should see that the file exists. Open the file in a text editor to see what text you've inserted.
 
-21. Open your terminal and navigate to your home folder.
-22. Run the following command: 
+19. Run the following command: 
 
 ```
 chmod +x script-1.sh
 ```
 
-23. Run the following command: 
+This gives the script the ability to run as a program.
+
+20. Run the following command: 
 
 ```
 ./script-1.sh
 ```
 
-You will see "This is my first shell script!" printed in your terminal.
+This will execute your program. You will see "This is my first shell script!" printed in your terminal.
+
+21. Run `history -n 40`. This will print out the last 40 commands you entered in your terminal. Could you have achieved the same results with fewer commands? If you want to restart to get a better "score", navigate back to your home directory and run `rm -rf our-files` to delete the directory and start back at the first step. One thing to try is to run `ls`with a directory name as an argument to check contents of a directory _without_ having to enter a separate command to navigate into that directory. Feel free to research how you could navigate into a directory inside another directory in one command. **Any research you do** here will help you in your terminal journey—as well as help you **become a better researcher**!
+22. Finally, copy and paste the output from `history -n 40` as your submission for this assignment. Well done!
