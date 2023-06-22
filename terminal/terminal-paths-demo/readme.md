@@ -52,19 +52,20 @@ Use `ls` to know **what contents your current directory has**, and `pwd` to know
 Here are the steps you should follow during this exercise:
 
 1. Open your terminal and navigate to your home directory using any kind of a path you'd like.
-2. Create a new directory called "my_directory" in your home directory using an absolute path.
-3. Navigate into "my_directory" using a relative path.
-4. Create a new file called "my_file.txt" in "my_directory" using a relative path.
-5. Move "my_file.txt" to your home directory using an absolute path.
-6. Delete "my_directory" using a relative path.
-7. Create a new directory called "my_folder" in your home directory using an absolute path.
-8. Navigate into "my_folder" using a relative path.
-9. Create a new file called "my_text.txt" in "my_folder" using an absolute path.
-10. Move "my_text.txt" to your home directory using a relative path.
-11. Delete "my_folder" using an absolute path.
-12. Create a new directory called "my_new_directory" in your home directory using an absolute path.
-13. Navigate into "my_new_directory" using a relative path.
-14. Create a new file called "my_new_file.txt" in "my_new_directory" using an absolute path.
-15. Move "my_new_file.txt" to your home directory using a relative path.
+2. Create a new directory called "my-directory" in your home directory using an absolute path.
+3. Navigate into "my-directory" using a relative path.
+4. Create a new file called "my-file.md" in "my-directory" using a relative path.
+5. Move "my-file.md" to your home directory using an absolute path.
+6. Navigate to your home directory using an absolute path.
+7. Delete "my-directory" using a relative path.
+8. Create a new directory called "my-folder" in your home directory using an absolute path.
+9. Navigate into "my-folder" using a relative path.
+10. Create a new file called "my-text.md" in "my-folder" using an absolute path.
+11. Move "my-text.md" to your home directory using a relative path.
+12. Navigate to your home directory using a relative path.
+13. Delete "my-folder" using an absolute path.
+14. Create a new directory called "my-new-directory" in your home directory using an absolute path.
+15. Create a new file called "my-new-file.md" in "my-new-directory" using an absolute path.
+16. Move "my-new-file.md" to your home directory using a relative path.
 
 Good luck!
