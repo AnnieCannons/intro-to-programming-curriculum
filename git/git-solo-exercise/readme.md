@@ -33,7 +33,7 @@ After this assignment, students will be able to:
 	- If you have the `code` command set up, you can simply run `code .` to open the current directory in VSC—`.` is a shortcut in the terminal for the current directory
 	- If not, you can launch or switch to Code, then click the File menu at the top, then Open, and navigate to the directory `git-solo-exercise` or the file `readme.md`.
 	- If you opened the whole directory, now open the `readme.md` file in VS Code—you should be able to see the file in VS Code on the left side of the screen, though a good tool for opening files is the shortcut Command-p, which will let you type in the name of any file in your current project to open it or switch to it.
-15. In `readme.md`, give the document the title, "Questions For An AnnieCannons Student". If you want it to appear as a big heading on GitHub, add a `# ` to the start, so that the title is "# Questions For An AnnieCannons Student".
+15. In `readme.md`, write "Questions For An AnnieCannons Student" as the first line of the document. If you want it to appear as a big heading on GitHub, add a `# ` to the start, so that the title is "# Questions For An AnnieCannons Student".
 16. Save the changes! (Or turn auto-save on in the File menu so this is done for you automatically.)
 17. Switch to the terminal.
 18. Add the changes using `git add readme.md`.
