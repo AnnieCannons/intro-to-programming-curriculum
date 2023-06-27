@@ -165,7 +165,8 @@ button {
   border-radius: 10px;
 }
 
-.list-wrapper {
+
+.right-content-box{
   background-color: #e9f8ff;
   font-size: 1em;
   padding: 2em;
@@ -173,9 +174,9 @@ button {
   position: relative;
   left: 100px;
 }
-
 .right-content-box li {
   margin-top: 1em;
+  
 }
 
 .list-header {
@@ -236,7 +237,7 @@ button {
 }
 
 /* FOOTER */
-.buttons-section {
+.footer-section {
   background-color: #f1f1f8;
   padding: 2em;
 }
