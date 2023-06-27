@@ -17,6 +17,8 @@
   - What date was it posted?
 - Find a command line cheat sheet
 
+# Action Items
+
 **Install OhMyZsh**
  - Open your terminal (Google 'open terminal mac')
  - Click [here](https://ohmyz.sh/#install) to open your browser and go to Install OhMyZsh
