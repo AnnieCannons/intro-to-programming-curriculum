@@ -30,7 +30,7 @@ For these instructions, we'll refer to **partner 1** and **partner 2**. Pick one
 
 ##### Setup
 
-**These steps are for partner 1.**
+_These steps are for partner 1._
 
 1. Switch to your browser.
 2. Go to [GitHub's homepage](https://www.github.com).
@@ -85,7 +85,7 @@ For these instructions, we'll refer to **partner 1** and **partner 2**. Pick one
 
 Now it's the other partner's turn!
 
-**These steps are for partner 2.**
+_These steps are for partner 2._
 
 1. If you haven't already, create a `dev` directory in Documents using `mkdir [filepath]`. What's the path to give `mkdir`? Depends on where you are.
 2. Navigate to your `dev` directory with `cd [path to dev directory]`.
@@ -98,7 +98,7 @@ Now it's the other partner's turn!
 
 ##### Answering The First Question And Asking The Next
 
-**These steps are for partner 2.**
+_These steps are for partner 2._
 
 1. You should see an unanswered question in the `readme.md` file in VS Code.
 2. Write an answer to the question. It will show up better on GitHub if you add an extra blank line between the question and answer, but this is optional.
@@ -111,7 +111,7 @@ Now it's the other partner's turn!
 
 ##### The General Workflow
 
-**These steps are for partner 1 _first_, but after that you will take turns doing this general workflow.**
+_These steps are for partner 1 _first_, but after that you will take turns doing this general workflow._
 
 1. Switch to your terminal.
 2. Enter the command `git pull origin main`.
