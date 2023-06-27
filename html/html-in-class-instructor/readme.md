@@ -101,7 +101,7 @@
    2. Add a class of "awards-section-text" to the p tag
 6. Which content do you think goes inside the divs, based on their class names?
 7. Re-create the design on your own!
-![section showcasing the company's awards](./assets/div-section-design.png)
+![section showcasing the company's awards](./assets/awards-section-design.png)
 
 
 # HERO SECTION (h1, p, button, form)
