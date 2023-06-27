@@ -32,7 +32,7 @@ nav ul li {
   color: whitesmoke;
   font-weight: bolder;
 }
-.nav-logo {
+nav img {
   width: 50px;
   margin-left: 2em;
   border-radius: 100%;
@@ -156,7 +156,7 @@ button {
 .awards-section div {
   width: 80%;
 }
-.award-img {
+.left-content-box img {
   width: 400px;
   z-index: 100;
   position: relative;
@@ -179,13 +179,13 @@ button {
   
 }
 
-.list-header {
+.right-content-box p {
   /* text-align: center; */
   font-size: 1.5em;
   margin-top: 0px;
 }
 
-.list-header a {
+.right-content-box a {
   text-decoration: underline;
 }
 

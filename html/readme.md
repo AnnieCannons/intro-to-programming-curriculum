@@ -17,8 +17,9 @@ _Learner will know:_
 
 # In-class activities
 
-1. Install Visual Studio Code 
-2. In-class website 
+1. Install Visual Studio Code
+2. Add your name to the title of the in-class website (slide 14) 
+3. In-class website 
    a.  Headers Part One 
    b.  Headers Part Two
    c.  About Section
@@ -29,12 +30,12 @@ _Learner will know:_
    h.  Divs Section
    i.  Awards Section
    j.  Hero Section 
-3. Form exercise
-4. Stanford cheat sheet exercise
+4. Form exercise
+5. Stanford cheat sheet exercise
    1. [Stanford HTML Cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)	
-5. Debugging in-class exercise 
+6. Debugging in-class exercise 
    1. [MDN Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
-6. Reading HTML exercise? 
+7. Reading HTML exercise? 
 
 # Resources
 **Videos from slides**
@@ -44,6 +45,7 @@ _Learner will know:_
 4. [Forms](https://youtu.be/2O8pkybH6po)
 5. [Divs](https://youtu.be/AxC1yzzPm5Q)
 6. [Sections and divs](https://youtu.be/p4JZHK7WNn0)
+
 **Articles + Links from slides**
 1. [Complete list of form inputs](https://www.w3schools.com/html/html_form_input_types.asp)
 2. [Basic website example](https://www.basicwebsiteexample.com) - where would a developer use divs?
