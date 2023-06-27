@@ -35,7 +35,6 @@ _Learner will know:_
    1. [Stanford HTML Cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)	
 6. Debugging in-class exercise 
    1. [MDN Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
-7. Reading HTML exercise? 
 
 # Resources
 **Videos from slides**

@@ -1,5 +1,5 @@
 # In-class assignment instructions
-# Headers section PART ONE (headers) - Slide 15
+# Headers section PART ONE (headers)
 
 1. Read these instructions at least once before you begin
 2. Navigate to HTML-in-class/index.html
@@ -9,7 +9,7 @@
 6. To see your code, right-click your html file and click on 'open with live server'. Make sure to refresh the page after making changes.
 7. STOP and head back to class
 
-# Headers section PART TWO (anchor tags) - Slide 22
+# Headers section PART TWO (anchor tags)
 1. Read these instructions at least once before you begin
 2. Turn each one of your headers into a hyperlink using the <a></a> tag.
 3. For h1-h3, link just one word. When the user clicks the link, it should take them to your github profile
@@ -33,7 +33,7 @@
 
 
 
-# Gallery Section (images) - Slide 28
+# Gallery Section (images)
 1. Read these instructions at least once before you begin
 2. Navigate to the Gallery Section of the HTML
 3. Inside the gallery-text-wrapper div, add your h1 and paragraph to match the design below
