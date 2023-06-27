@@ -28,6 +28,8 @@ Here is |GitHub's Git Cheatsheet|(https://training.github.com/downloads/github-g
 
 For these instructions, we'll refer to **partner 1** and **partner 2**. Pick one to be (it doesn't matter much which), and any instructions that are targeted at that partner will be for you.
 
+Each partner should **share their screen** when they are the ones following instructions. When the instructions ask you to switch, **switch whose screen is being shared**. This way you **can always work together to do the steps**, seeing the same actions and results as you go and **solving problems together**.
+
 ##### Setup
 
 _These steps are for partner 1._
@@ -126,4 +128,4 @@ _These steps are for partner 1 _first_, but after that you will take turns doing
 
 ##### Keep Alternating That General Workflow
 
-Repeat steps 1-10 for each partner for at least 5 questions, but for as many as you want to do for practice!
+Switch to partner 2 and repeat steps 1-10 from The General Workflow, then switch again and repeat. Do this for each partner for at least 5 questions, but for as many as you want to do for practice!
