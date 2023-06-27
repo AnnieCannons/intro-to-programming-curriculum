@@ -1,7 +1,7 @@
 # HTML Module
 
 # Slides
-link to slide deck, learning objectives and flow, everything that is currently in the resources readme file, the unit overview
+Click [here](https://www.canva.com/design/DAFloBTAiWE/VvNgsHnApTDW_G4oqh4LJQ/edit?utm_content=DAFloBTAiWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Learning Objectives
 _Learner will know:_
