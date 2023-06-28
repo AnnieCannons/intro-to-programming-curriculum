@@ -24,6 +24,14 @@ There is no perfect cheatsheet out there, but with only **one exception**, this 
 
 Here is |GitHub's Git Cheatsheet|(https://training.github.com/downloads/github-git-cheat-sheet/).
 
+### If Your Branch Is called "master" Instead
+
+**If you haven't pulled in the class gitconfig**, then your **branch** will still be **master**.
+
+In that case, the commands will be `git push origin master` and `git pull origin master` for you.
+
+You can fix this and avoid using a terrible slavery metaphor using the directions in the [class gitconfig](https://github.com/abbreviatedman/class-gitconfig) repository. This will also get **rid of** many **lengthy git warnings** that clutter your terminal, _and_, with the `code` command installation, allow you to shorten the `git commit -m "[commit message]"` to just `git commit`, and then write your commit messages in VS Code.
+
 ### Instructions
 
 For these instructions, we'll refer to **partner 1** and **partner 2**. Pick one to be (it doesn't matter much which), and any instructions that are targeted at that partner will be for you.
