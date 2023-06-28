@@ -137,3 +137,7 @@ _These steps are for partner 1 _first_, but after that you will take turns doing
 ##### Keep Alternating That General Workflow
 
 Switch to partner 2 and repeat steps 1-10 from The General Workflow, then switch again and repeat. Do this for each partner for at least 5 questions, but for as many as you want to do for practice!
+
+##### Turning In
+
+What you'll submit on Canvas is **the URL of the repository on GitHub**. It does _not_ matter **whether it's on your account or your partner's**—you will **both** turn in the **same** URL.
