@@ -1,5 +1,6 @@
 # In-class assignment instructions
-# Headers section PART ONE (headers)
+
+### Headers section PART ONE (headers)
 
 1. Read these instructions at least once before you begin
 2. Navigate to html-in-class-instructor/index.html
@@ -9,7 +10,8 @@
 6. To see your code, right-click your html file and click on 'open with live server'.
 7. STOP and head back to class
 
-# Headers section PART TWO (anchor tags)
+### Headers section PART TWO (anchor tags)
+
 1. Read these instructions at least once before you begin
 2. Turn each one of your headers into a hyperlink using the <a></a> tag.
 3. For h1-h3, link just one word. When the user clicks the link, it should take them to your github profile
@@ -19,7 +21,8 @@
 7. See what happens when you click the link in the browser!
 8. STOP and head back to class
 
-# Footer (buttons)
+### Footer (buttons)
+
 1. Read these instructions at least once before you begin
 2. Find the footer section in the HTML
 3. Add your code inside of the div with a class of "buttons-wrapper"
@@ -31,9 +34,8 @@
 5. Check out your code in the browser!
 6. STOP and head back to class
 
+### Gallery Section (images)
 
-
-# Gallery Section (images)
 1. Read these instructions at least once before you begin
 2. Navigate to the Gallery Section of the HTML
 3. Inside the gallery-text-wrapper div, add your h1 and paragraph to match the design below
@@ -44,10 +46,7 @@
    ![gallery page design](./assets/gallery-design.png)
 8. STOP and head back to class
 
-
-
-
-# NAVBAR (unordered list, image)
+### NAVBAR (unordered list, image)
 
 1. Read these instructions at least once before you begin
 2. Look for the <nav></nav> section in the html
@@ -61,9 +60,10 @@
    b. ABOUT
    c. CONTACT
 6. To see your code, right-click your html file and click on 'open with live server'. Make sure to refresh the page after making changes.
-5. Move on to the next section, Our Certification Process
+7. Move on to the next section, Our Certification Process
 
-# Our certification process (ordered list)
+### Our certification process (ordered list)
+
 1. Read these instructions at least once before you begin
 2. Find the section with a class of "certification-section"
 3. Below the header that says **Our Certification Process**, create an ordered list with four list items:
@@ -74,7 +74,8 @@
 4. Check out your code in the browser
 5. STOP and head back to class
 
-# Divs 
+### Divs
+
 1. Read these instructions at least once before you begin
 2. Find the <section> with a class attribute that has a value of "parent-child-section"
 3. Write your code between the <div class="steps-wrapper"></div> tags.
@@ -91,7 +92,8 @@
     ![four divs with steps and content](./assets/div-section-design.png)
 14. STOP and head back to class
 
-# Awards section (practice)
+### Awards section (practice)
+
 1. Read these instructions at least once before you begin
 2. Check out the design below
 3. What elements do you see in the design?
@@ -103,7 +105,7 @@
 7. Re-create the design on your own!
    ![section showcasing the company's awards](./assets/awards-section-design.png)
 
-# HERO SECTION (h1, p, button, form)
+### HERO SECTION (h1, p, button, form)
 
 1. Read these instructions at least once before you begin
 2. Find the section with a class of "hero-section"
