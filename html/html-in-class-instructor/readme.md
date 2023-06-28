@@ -41,7 +41,7 @@
 5. Add all nine gallery images using relative paths
 6. Add meaningful alt tags to each image
 7. This is what your page should look like:
-![gallery page design](./assets/gallery-design.png)
+   ![gallery page design](./assets/gallery-design.png)
 8. STOP and head back to class
 
 
@@ -77,19 +77,19 @@
 # Divs 
 1. Read these instructions at least once before you begin
 2. Find the <section> with a class attribute that has a value of "parent-child-section"
-3. Write your code between the <div class="steps-wrapper"></div> tags. 
+3. Write your code between the <div class="steps-wrapper"></div> tags.
 4. Add a div with a class of "steps-card"
 5. Inside of that div, use an h1 tag to put a **1** on the screen
 6. After the h1, add a paragraph with the following text: "Give us a call! We will go over everything together and ensure you want to hire us."
-7. Take a look in the browser! 
+7. Take a look in the browser!
 8. The h1 and the paragraph should be **siblings**. Their **parent** is the steps-wrapper div
 9. Make three more divs that have identical structure; look in the browser as you go
 10. For the second div, change the h1 so it renders a 2, and change the paragraph to say: "Meet with our product team to determine your MVP, a product that will thrill your users."
 11. For the third div, change the h1 so it renders a 3, and change the paragraph to say: "Our in-house designers will create something that is both beautiful, functional, and user-friendly."
 12. For the fourth div, change the h1 so it renders a 4, and change the paragraph to say: "Our team will build the app of your dreams. We will take our time and pay close attention to every detail."
 13. This is what your page should look like:
-![four divs with steps and content](./assets/div-section-design.png)
-7. STOP and head back to class
+    ![four divs with steps and content](./assets/div-section-design.png)
+14. STOP and head back to class
 
 # Awards section (practice)
 1. Read these instructions at least once before you begin
@@ -101,8 +101,7 @@
    2. Add a class of "awards-section-text" to the p tag
 6. Which content do you think goes inside the divs, based on their class names?
 7. Re-create the design on your own!
-![section showcasing the company's awards](./assets/awards-section-design.png)
-
+   ![section showcasing the company's awards](./assets/awards-section-design.png)
 
 # HERO SECTION (h1, p, button, form)
 
