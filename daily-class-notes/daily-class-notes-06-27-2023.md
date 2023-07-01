@@ -4,7 +4,9 @@
 
 ##### Action Items
 
-None.
+Make sure you've got the following set up:
+
+- Oh-My-ZSH 
 
 ##### Slides Covered
 
