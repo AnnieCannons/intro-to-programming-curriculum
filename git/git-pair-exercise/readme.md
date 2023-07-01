@@ -24,7 +24,15 @@ There is no perfect cheatsheet out there, but with only **one exception**, this 
 
 Here is |GitHub's Git Cheatsheet|(https://training.github.com/downloads/github-git-cheat-sheet/).
 
-### Instructions
+### If Your Branch Is called "master" Instead
+
+**If you haven't pulled in the class gitconfig**, then your **branch** will still be **master**.
+
+In that case, the commands will be `git push origin master` and `git pull origin master` for you.
+
+You can fix this and avoid using a terrible slavery metaphor using the directions in the [class gitconfig](https://github.com/abbreviatedman/class-gitconfig) repository. This will also get **rid of** many **lengthy git warnings** that clutter your terminal, _and_, with the `code` command installation (here are [the directions for setting up that command](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)), allow you to shorten the `git commit -m "[commit message]"` to just `git commit`, and then write your commit messages in VS Code. This makes it _far_ easier to work on your commit messages!
+
+### Assignment Instructions
 
 For these instructions, we'll refer to **partner 1** and **partner 2**. Pick one to be (it doesn't matter much which), and any instructions that are targeted at that partner will be for you.
 
@@ -89,14 +97,19 @@ Now it's the other partner's turn!
 
 _These steps are for partner 2._
 
-1. If you haven't already, create a `dev` directory in Documents using `mkdir [filepath]`. What's the path to give `mkdir`? Depends on where you are.
-2. Navigate to your `dev` directory with `cd [path to dev directory]`.
-3. Clone down your partner's repository. Get the web address ( otherwise known as a "URL") from your partner for their repository, then clone it down with `git clone [repo url]`.
-4. Navigate into it with `cd [repo name]`. The repo name is _probably_ `git-pair-exercise`, but your partner may have named it differently—it should be the last part of the URL you cloned, everything after their username and the `/`. If you can't find it, run `ls` to see what you just cloned down, and navigate into directory.
-5. Open the file or directory in Visual Studio Code.
-   - If you have the `code` command set up, you can simply run `code .` to open the current directory in VSC—`.` is a shortcut in the terminal for the current directory
-   - If not, you can launch or switch to Code, then click the File menu at the top, then Open, and navigate to the directory `git-pair-exercise` or the file `readme.md`.
-   - If you opened the whole directory, now open the `readme.md` file in VS Code—you should be able to see the file in VS Code on the left side of the screen, though a good tool for opening files is the shortcut Command-p, which will let you type in the name of any file in your current project to open it or switch to it.
+1. Switch to your web browser.
+2. Check the email associated with your GitHub for an invitation to contribute from your partner. It should have a From of your partner's username, and the subject should start with, "[your partner's username] has invited you to..."
+3. In the email, click on the "View invitation" button.
+4. It will open a new browser tab. Click on Accept Invitation.
+5. Switch to your terminal.
+6. If you haven't already, create a `dev` directory in Documents using `mkdir [filepath]`. What's the path to give `mkdir`? Depends on where you are.
+7. Navigate to your `dev` directory with `cd [path to dev directory]`.
+8. Clone down your partner's repository. Get the web address ( otherwise known as a "URL") from your partner for their repository, then clone it down with `git clone [repo url]`.
+9. Navigate into it with `cd [repo name]`. The repo name is _probably_ `git-pair-exercise`, but your partner may have named it differently—it should be the last part of the URL you cloned, everything after their username and the `/`. If you can't find it, run `ls` to see what you just cloned down, and navigate into directory.
+10. Open the file or directory in Visual Studio Code.
+	- If you have the `code` command set up, you can simply run `code .` to open the current directory in VSC—`.` is a shortcut in the terminal for the current directory
+	- If not, you can launch or switch to Code, then click the File menu at the top, then Open, and navigate to the directory `git-pair-exercise` or the file `readme.md`.
+	- If you opened the whole directory, now open the `readme.md` file in VS Code—you should be able to see the file in VS Code on the left side of the screen, though a good tool for opening files is the shortcut Command-p, which will let you type in the name of any file in your current project to open it or switch to it.
 
 ##### Answering The First Question And Asking The Next
 
@@ -129,3 +142,7 @@ _These steps are for partner 1 _first_, but after that you will take turns doing
 ##### Keep Alternating That General Workflow
 
 Switch to partner 2 and repeat steps 1-10 from The General Workflow, then switch again and repeat. Do this for each partner for at least 5 questions, but for as many as you want to do for practice!
+
+##### Turning In
+
+What you'll submit on Canvas is **the URL of the repository on GitHub**. It does _not_ matter **whether it's on your account or your partner's**—you will **both** turn in the **same** URL.
