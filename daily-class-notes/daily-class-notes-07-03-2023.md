@@ -9,7 +9,7 @@
 
 ##### Slides Covered
 
-[Into to HTML](), slides 18-26
+- [Into to HTML](), slides 18-26
 
 ##### Assignments
 
