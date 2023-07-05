@@ -9,7 +9,7 @@
 
 ##### Slides Covered
 
-- [Into to HTML](), slides 18-26
+- [Into to HTML](https://www.canva.com/design/DAFloBTAiWE/VvNgsHnApTDW_G4oqh4LJQ/edit), slides 18-26
 
 ##### Assignments
 
