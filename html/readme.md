@@ -18,7 +18,8 @@ _Learner will know:_
 # In-class activities
 
 1. Install Visual Studio Code
-2. Add your name to the title of the in-class website (slide 14) 
+2. Head + Body tags
+   a. Add your name to the title of the in-class website (slide 15) 
 3. In-class website 
    a.  Headers Part One 
    b.  Headers Part Two

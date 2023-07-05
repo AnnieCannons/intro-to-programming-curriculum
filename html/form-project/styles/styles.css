@@ -1,0 +1,87 @@
+body h1,
+p {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+label {
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+body {
+  background-color: aquamarine;
+  padding-top: 100px;
+}
+
+form {
+  width: 40%;
+  margin: 3em auto;
+  background-color: white;
+  border-radius: 10px;
+  padding: 2em;
+}
+
+input {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+label {
+  width: 300px;
+  display: inline-block;
+}
+
+.checkbox-wrapper {
+  display: flex;
+  border: 2px solid gray;
+  padding: 10px;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.input-wrapper-text {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.checkbox-wrapper input {
+  width: 10px;
+}
+
+.checkbox-wrapper p {
+  font-size: 15px;
+}
+
+.checkbox-wrapper label {
+  width: 50px;
+}
+
+.select-wrapper {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.select-wrapper label {
+  margin-bottom: 10px;
+}
+
+.text-area-wrapper {
+  margin-bottom: 30px;
+}
+
+.submit-wrapper input {
+  padding: 10px 20px;
+  background-color: #000080;
+  color: white;
+}
+
+.submit-wrapper{
+    text-align: center;
+    margin-top:30px
+  }

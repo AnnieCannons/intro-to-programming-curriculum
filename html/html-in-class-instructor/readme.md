@@ -122,3 +122,5 @@
     i. the **first** option tag should have the following attributes: value, disabled, selected
     ii. the second and third option tags should have the following attributes: value
     c) the submit input tag should have the following attributes: type, value
+
+![Form section design](./assets/form-section.png)
