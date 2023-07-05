@@ -1,9 +1,9 @@
 # HTML Module
 
-# Slides
-Click [here](https://www.canva.com/design/DAFloBTAiWE/VvNgsHnApTDW_G4oqh4LJQ/edit?utm_content=DAFloBTAiWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### Slides
+Click [here](https://www.canva.com/design/DAFloBTAiWE/VvNgsHnApTDW_G4oqh4LJQ/edit)
 
-# Learning Objectives
+### Learning Objectives
 _Learner will know:_
 
 1. **How to read html tags**
@@ -15,7 +15,7 @@ _Learner will know:_
 5. **How to debug HTML**
 6. **Where to find resources for refreshers and new learning**
 
-# In-class activities
+### In-class activities
 
 1. Install Visual Studio Code
 2. Head + Body tags
@@ -37,7 +37,7 @@ _Learner will know:_
 6. Debugging in-class exercise 
    1. [MDN Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
-# Resources
+### Resources
 **Videos from slides**
 1. [How does HTML provide structure for a webpage?](https://youtu.be/90kC1YLNF3U)
 2. [Block vs inline elements](https://youtu.be/XHjoohto2-w)
