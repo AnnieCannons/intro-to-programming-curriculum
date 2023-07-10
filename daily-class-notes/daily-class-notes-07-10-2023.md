@@ -13,3 +13,4 @@
 ##### Assignments
 
 - [HTML In Class Exercises](https://github.com/AnnieCannons/html-in-class-exercises), done in class in groups but submitted individually. This was due at the end of the day—please file an extension if it's not currently done.
+- [Debugging HTML](https://github.com/AnnieCannons/debugging-html), done at the end of class and to be resumed tomorrow and turned in soon after the start of class.
