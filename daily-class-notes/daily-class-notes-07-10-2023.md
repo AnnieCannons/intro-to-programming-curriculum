@@ -1,6 +1,6 @@
 # Daily Class Notes
 
-### July 5, 2023
+### July 10, 2023
 
 ##### Action Items
 
