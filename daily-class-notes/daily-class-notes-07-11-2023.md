@@ -5,6 +5,9 @@
 ##### Action Items
 
 - Familiarize yourself with the [CSS Diner](https://css-diner.netlify.app/) game. You do _not_ have to play it, but we _will_ be playing it to solidify our selector skills.
+- Deploy an assignment solution of yours to GitHub Pages using [this guide](). The solution could be for either:
+  - Debugging HTML
+  - HTML In Class Exercises
 
 ##### Slides Covered
 
