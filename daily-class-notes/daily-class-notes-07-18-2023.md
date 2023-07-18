@@ -4,13 +4,12 @@
 
 ##### Action Items
 
-- None.
+- We'll be meeting with every student for at least 10 minutes in the next week to make sure we're on the same page on what if anything you still owe on Canvas.
 
 ##### Slides Covered
 
-- [Into to HTML](https://www.canva.com/design/DAFloBTAiWE/VvNgsHnApTDW_G4oqh4LJQ/edit), slides 36-47.
+- None.
 
 ##### Assignments
 
-- [HTML In Class Exercises](https://github.com/AnnieCannons/html-in-class-exercises), done in class in groups but submitted individually. We will be doing this through the end of class on Monday.
-  - We have finished up through the Lists exercises (NAVBAR and "Our Certification Process" sections).
+- [Hot Mess](https://github.com/AnnieCannons/hot-mess), which we finished today. **If you aren't done with it yet, please submit an extension on Canvas.** And once you _do_ finish, you'll present your Hot Mess!
