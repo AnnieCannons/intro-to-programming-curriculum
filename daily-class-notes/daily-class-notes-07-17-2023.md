@@ -8,9 +8,8 @@
 
 ##### Slides Covered
 
-- [Into to CSS](https://www.canva.com/design/DAFnIubtXC8/iFIr3Uf4Hlv4Tp80z_JLGA/edit), slides 39-44.
+- None.
 
 ##### Assignments
 
-- [CSS In Class Exercises](https://github.com/AnnieCannons/css-in-class-exercises), in which we finished Styling Text.
-- [Box Boxer](https://github.com/AnnieCannons/box-boxer), which we'll finish up at the very start of class on Monday.
+- [Hot Mess](https://github.com/AnnieCannons/hot-mess), which we'll finish up tomorrow by 2:30pm.
