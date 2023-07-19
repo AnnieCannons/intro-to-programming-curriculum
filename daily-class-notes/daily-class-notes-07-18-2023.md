@@ -12,4 +12,4 @@
 
 ##### Assignments
 
-- [Hot Mess](https://github.com/AnnieCannons/hot-mess), which we finished today. **If you aren't done with it yet, please submit an extension on Canvas.** And once you _do_ finish, you'll present your Hot Mess!
+- [Hot Mess](https://github.com/AnnieCannons/hot-mess), which we finished today and presented.. **If you aren't done with it yet, please submit an extension on Canvas.** And once you _do_ finish, you'll present your Hot Mess!
