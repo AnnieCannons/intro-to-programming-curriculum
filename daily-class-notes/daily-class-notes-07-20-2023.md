@@ -4,6 +4,7 @@
 
 ##### Action Items
 
+- We attended the [Designing Inclusive & Accessible Technology in a Digital World](https://events.techinmotion.com/designing-inclusive-tech) event.
 - We'll be meeting with every student for at least 10 minutes in the next week to make sure we're on the same page on what if anything you still owe on Canvas.
 
 ##### Slides Covered
