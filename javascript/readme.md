@@ -16,13 +16,13 @@
 
 - Slides link: [Click Here](https://www.canva.com/design/DAFpLgVyDB0/320DKN-frgCEf1f7RAm7cg/edit) 
 - Activities
-    - Unit 1: Analyzing a Website 
-    - Unit 2: Using DevTools and the Console
-    - Unit 3: Variables
-    - Unit 4: Strings
-    - Unit 5: Numbers
-    - Unit 6: Arrays
-    - Unit 7: Objects
+    - Unit 1: Analyzing a Website - [JavaScript Treasure Hunt](https://github.com/AnnieCannons/intro-to-programming-06-2023/tree/main/javascript/labs/javascript-variables-data-types/unit-1-javascript-treasure-hunt)
+    - Unit 2: [Using DevTools and the Console](https://github.com/AnnieCannons/js-commands-and-console)
+    - Unit 3: [Variables](https://github.com/AnnieCannons/js-variables-activities)
+    - Unit 4: [Strings](https://github.com/AnnieCannons/js-working-with-strings)
+    - Unit 5: [Numbers](https://github.com/AnnieCannons/js-working-with-numbers)
+    - Unit 6: [Arrays](https://github.com/AnnieCannons/js-working-with-arrays)
+    - Unit 7: [Objects](https://github.com/AnnieCannons/js-working-with-objects)
 
 
 ## JS Functions and Scope, Lecture and Lab
