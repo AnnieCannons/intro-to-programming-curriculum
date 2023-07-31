@@ -19,7 +19,7 @@ One of the best things you can do as you are learning is to start to notice anyt
     - Do you have items in your shopping cart?
     - Is the site showing you which items are on sale?
     - Have you completed courses or tasks?
-    - 
+  
 Which data do you think they use to serve different ads to different users?
 
 A note on dynamic vs static data:
@@ -36,17 +36,17 @@ A note on dynamic vs static data:
 Let’s find different places JavaScript is used in websites we use on a regular basis. How is the data being used?
 
 1. Your task is to keep track of all of the places where data is dynamic and therefore requires functionality, or JavaScript 
-    a. Find at least five places where the browser is displaying dynamic data
-    b. What task is the functionality completing? 
-    c. What steps does the computer need to take to accomplish the task
+    - Find at least five places where the browser is displaying dynamic data
+    - What task is the functionality completing? 
+    - What steps does the computer need to take to accomplish the task
 2. Navigate to freecodecamp.org
 3. Create an account
 4. Click around, writing down all the places where dynamic data is used
 5. What happens when you use the search bar?
-    a. What ‘task’ does the computer need to complete in order for the search bar to work?
-    b. What do you imagine the functionality to be when you type in a subject and press ‘enter’? What instructions would the computer need to complete the task?
+    - What ‘task’ does the computer need to complete in order for the search bar to work?
+    - What do you imagine the functionality to be when you type in a subject and press ‘enter’? What instructions would the computer need to complete the task?
 7. What happens when you start a course?
-    a. What instructions does the computer need to follow to allow a student to start a course?
-    b. How does the program keep track of which user has completed which videos?
+    - What instructions does the computer need to follow to allow a student to start a course?
+    - How does the program keep track of which user has completed which videos?
 8. Where do you see static data?
-    a. Where are three places the browser is displaying static data?
+    - Where are three places the browser is displaying static data?
