@@ -42,7 +42,7 @@ When we make changes that should go in our general curriculum, the situation is 
 
 1. Switch to the `curriculum-changes` branch with `git switch curriculum-changes`.
 2. Update it with any new curriculum you don't yet have with `git pull upstream main`.
-2. Make the changes you want, then `add`, `commit`, and `git push origin cohort-specific-changes` them.
+2. Make the changes you want, then `add`, `commit`, and `git push origin curriculum-changes` them.
 3. Switch back to `main` with `git switch main`.
 4. Merge in the changes from the other branch with `git merge curriculum-changes`.
 5. This still hasn't impacted the `main` branch, but a `git push origin main` will get those changes into the part of GitHub our students are used to checking.
