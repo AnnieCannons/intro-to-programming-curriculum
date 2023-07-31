@@ -3,6 +3,7 @@
 So far you have learned how to put content on a webpage and how to style it. But the real reason the internet is so powerful is because users can interact with it. Oftentimes we interact without even thinking about it - it has become second nature. Part of becoming a developer is learning all of the places functionality has been built into the user experience. 
 
 What do we mean by ‘functionality’?
+
 - Anytime we expect the website to ‘do something’. 
     - Show the website after we login
     - Update the time and date in real-time
@@ -10,6 +11,7 @@ What do we mean by ‘functionality’?
     - All of these require functionality, and are built by developers in very clear steps that a computer can understand - usually in JavaScript!
 
 One of the best things you can do as you are learning is to start to notice anytime you are using the functionality of a website. 
+
 - When are you giving data to the site? 
     - How is it collected?
     - Do you imagine it needs to be stored somewhere (will the data be there when you log in again)?
@@ -17,9 +19,11 @@ One of the best things you can do as you are learning is to start to notice anyt
     - Do you have items in your shopping cart?
     - Is the site showing you which items are on sale?
     - Have you completed courses or tasks?
+    - 
 Which data do you think they use to serve different ads to different users?
 
-A note on dynamic vs static data
+A note on dynamic vs static data:
+
 - Anything that changes is called dynamic data.
     - Anytime you see your name, age, address, or other personal information - this will change based on who is logged in
     - Weather reports, anything with time/dates (movie times, appointment schedulers, hotel reservations)
@@ -30,6 +34,7 @@ A note on dynamic vs static data
 
 
 Let’s find different places JavaScript is used in websites we use on a regular basis. How is the data being used?
+
 1. Your task is to keep track of all of the places where data is dynamic and therefore requires functionality, or JavaScript 
    a. Find at least five places where the browser is displaying dynamic data
    b. What task is the functionality completing? 
