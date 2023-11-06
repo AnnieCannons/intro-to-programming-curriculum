@@ -9,7 +9,7 @@ This setup guide covers several aspects of getting started with Git and/or conti
 We'll use Homebrew to install Git. This will give you the most up-to-date version of Git, as well as make it easy to update or uninstall it. It's also _very_ useful to have Homebrew, and we'll be using it to install other things in this course.
 
 1. This [Homebrew link](https://brew.sh/) has the code you'll need under its "Install Homebrew" section. Click the clipboard symbol to its right to copy the one line of code, then paste into Terminal and it return.
-2. [ ] It will ask you for your computer's password. Enter it, but note that **it will not show you typing as you type your password**. There will be **no cursor** as you type. But if you type in your password correctly and hit return, the installation will proceed.
+2. It will ask you for your computer's password. Enter it, but note that **it will not show you typing as you type your password**. There will be **no cursor** as you type. But if you type in your password correctly and hit return, the installation will proceed.
 3. It may ask you to hit RETURN to confirm its creation of folders. Do so!
 4. Homebrew installation will take some time to complete, especially over slower connections. If this happens to you, go take a break!
 5. **You'll know installation is done when you get back to a "command prompt"**. You'll see the line "Installation successful!" in bold next to an arrow. You'll see similar messages below it with "Homebrew is run entirely by unpaid volunteers"—it is—and "Next steps"—which we'll follow now.
