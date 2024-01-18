@@ -1,7 +1,7 @@
 # HTML Module
 
 ### Slides
-Click [here](https://www.canva.com/design/DAFloBTAiWE/VvNgsHnApTDW_G4oqh4LJQ/edit)
+Click [here](https://www.canva.com/design/DAFloBTAiWE/JDQM30RoLTTnrivAA1Kx_w/view)
 
 ### Learning Objectives
 _Learner will know:_
@@ -15,12 +15,10 @@ _Learner will know:_
 5. **How to debug HTML**
 6. **Where to find resources for refreshers and new learning**
 
-### In-class activities
+### Exercises
 
 1. Install Visual Studio Code
-2. Head + Body tags
-   a. Add your name to the title of the in-class website (slide 15) 
-3. In-class website 
+2. Students will go through the lecture and work on the following exercises in class, [dedicated repo](https://github.com/AnnieCannons/html-in-class-exercises).
    a.  Headers Part One 
    b.  Headers Part Two
    c.  About Section
@@ -31,11 +29,8 @@ _Learner will know:_
    h.  Divs Section
    i.  Awards Section
    j.  Hero Section 
-4. Form exercise
-5. Stanford cheat sheet exercise
-   1. [Stanford HTML Cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)	
-6. Debugging in-class exercise 
-   1. [MDN Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+4. [Codecademy HTML](https://www.codecademy.com/learn/learn-html)
+5. [Building Lab](https://github.com/AnnieCannons/ac-html-exercises/tree/master/Exercises)	
 
 ### Resources
 **Videos from slides**

@@ -1,1 +1,0 @@
-Daily skills builders assignments.
