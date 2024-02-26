@@ -1,8 +1,8 @@
 # CSS Module
 
 ### Slides
-[Intro to CSS: CSS Selectors and Property/Value Pairs](https://www.canva.com/design/DAFnIubtXC8/MaOIOPSEJNDjxMME8lphyg/view)
-[Intro to CSS: CSS Layout, Flexbox, and Responsive Design](https://www.canva.com/design/DAF6QqKnBEg/1l88nUOwOw7AH0xHuNFfVA/view)
+- [Intro to CSS: CSS Selectors and Property/Value Pairs](https://www.canva.com/design/DAFnIubtXC8/MaOIOPSEJNDjxMME8lphyg/view)
+- [Intro to CSS: CSS Layout, Flexbox, and Responsive Design](https://www.canva.com/design/DAF6QqKnBEg/1l88nUOwOw7AH0xHuNFfVA/view)
 
 ### Learning Objectives
 _Learner will know:_
@@ -21,8 +21,9 @@ _Learner will know:_
 3. [Box Boxer](https://github.com/AnnieCannons/box-boxer)
 4. [Hot Mess](https://github.com/AnnieCannons/hot-mess)
 5. [Selector Translation](https://github.com/AnnieCannons/selector-translation)
-6. INPROGRESS
-7. INPROGRESS
+6. [CSS Boxes](https://docs.google.com/document/d/1DcGTRA_Rnp4H4A5W_M5XX3nChUI9Zd6GaG5d83Qb_a8/edit)
+7. [Flexbox Froggy](https://flexboxfroggy.com/)
+8. [Coach Website](https://github.com/AnnieCannons/ac-intro-css/blob/gh-pages/images/coach-assets.zip)
 8. [Media Queries](https://github.com/AnnieCannons/holy-media-queries-batman)
 
 ### Resources
