@@ -51,8 +51,8 @@
     - [Unit 2: Using Parameters and Arguments](https://github.com/AnnieCannons/js-functions-parameters-arguments)
     - [Unit 3: Return and Function Expressions](https://github.com/AnnieCannons/js-functions-returns-expressions)
     - [Unit 4: Scope Exercises](https://github.com/AnnieCannons/js-function-scope)
-    - Unit 5: Arrow Functions
-    - Unit 6: More with functions
+    - [Unit 5: Arrow Functions](https://github.com/AnnieCannons/arrow-functions)
+ 
 
 ## JavaScript DOM and Events
 ### The Why: Developers need a way to use JavaScript to access static and dynamic content on a web page or in a web app. The DOM provides a standardized way to interact with HTML documents and dynamically manipulate web content. JavaScript allows you to listen for events, such as button clicks or form submissions, and perform actions based on those events, dynamically updating the content or behavior of the web page.
